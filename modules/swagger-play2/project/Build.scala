@@ -4,7 +4,7 @@ import play.PlayImport._
 
 object ApplicationBuild extends Build {
   val appName = "swagger-play2"
-  val appVersion = "1.3.7"
+  val appVersion = "1.3.6.1"
 
   checksums in update := Nil
 
